@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello, I'm Aleksei!  👋 
+### Welcome to my github account! 
+### I'm student of Programming School 21 (L'École 42)
 
 <!--
-**alekseichemakin/alekseichemakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**marselaminov/marselaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mqueen?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseichemakin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marselaminov&repo=github-readme-stats)](https://github.com/marselaminov/github-readme-stats)-->
+ 
+<!--____<details open><summary><font size = 100> Projects : </font></summary>____-->
+<!--  
+  # Projects :
+  
+  ## Minishell - simple version of shell
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/minishell)](https://github.com/marselaminov/minishell)
+  
+  ## Philosophers - multithreading
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Philosophers)](https://github.com/marselaminov/philosophers)
+  
+  ## Services - clusturing an docker-compose application whose deploy it with Kubernetes
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_services)](https://github.com/marselaminov/ft_services)
+  
+  ## Server - Installation docker to create server with Nginx, Mysql and Wordpress
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_server)](https://github.com/marselaminov/ft_server)
+  
+  ## Cub3D - Wolfenstein 3D
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/cub3d)](https://github.com/marselaminov/cub3D)
+  
+  ## Libasm - learning assembly
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/libasm)](https://github.com/marselaminov/libasm)
+  
+  ## Printf - implementation of my own "printf"
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/ft_printf)](https://github.com/marselaminov/ft_printf)
+  
+  ## GNL - implementation of my own "getline"
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/get_next_line)](https://github.com/marselaminov/get_next_line)
+  
+  ## Libft - own library with most popular functions
+  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/legunshi/Libft)](https://github.com/marselaminov/libft)
+  
+  ## CPP - learning C++
+  https://github.com/marselaminov/CPP
+-->
+  
+<!--</details>-->
+  
