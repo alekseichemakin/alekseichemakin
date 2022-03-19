@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mqueen?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+<!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mqueen?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseichemakin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,38 +27,54 @@ ____<details open><summary><font size = 100> Projects : </font></summary>____
 
   # Projects :
  
- ## Web-application (Java)
+ ## Mimimetr - web application on spring
+ https://github.com/alekseichemakin/mimimetr
+ 
+ ## REST-API - getting car number
+ https://github.com/alekseichemakin/number_generator
+ 
+ ## Web-application (Java, Spring)
   https://github.com/alekseichemakin/sweater
  
   ## WebServer - HTTP webserver
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/minishell)](https://github.com/alekseichemakin/WebServer)
+ https://github.com/alekseichemakin/WebServer
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/minishell)](https://github.com/alekseichemakin/WebServer) -->
   
   ## Minishell - simple version of shell
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/minishell)](https://github.com/alekseichemakin/Minishell)
+ https://github.com/alekseichemakin/Minishell
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/minishell)](https://github.com/alekseichemakin/Minishell) -->
   
   ## Philosophers - multithreading
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/Philosophers)](https://github.com/alekseichemakin/Philosophers)
+ https://github.com/alekseichemakin/Philosophers
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/Philosophers)](https://github.com/alekseichemakin/Philosophers) -->
   
   ## Services - clusturing an docker-compose application whose deploy it with Kubernetes
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_services)](https://github.com/alekseichemakin/Services)
+ https://github.com/alekseichemakin/Services
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_services)](https://github.com/alekseichemakin/Services) -->
   
   ## Server - Installation docker to create server with Nginx, Mysql and Wordpress
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_server)](https://github.com/alekseichemakin/Server)
+ https://github.com/alekseichemakin/Server
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_server)](https://github.com/alekseichemakin/Server) -->
   
   ## Cub3D - Wolfenstein 3D
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/cub3d)](https://github.com/alekseichemakin/Cub3D)
+ https://github.com/alekseichemakin/Cub3D
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/cub3d)](https://github.com/alekseichemakin/Cub3D) -->
   
   ## Libasm - learning assembly
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/libasm)](https://github.com/alekseichemakin/Libasm)
+ https://github.com/alekseichemakin/Libasm
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/libasm)](https://github.com/alekseichemakin/Libasm) -->
   
   ## Printf - implementation of my own "printf"
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_printf)](https://github.com/alekseichemakin/Printf)
+ https://github.com/alekseichemakin/Printf
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_printf)](https://github.com/alekseichemakin/Printf) -->
   
   ## GNL - implementation of my own "getline"
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/get_next_line)](https://github.com/alekseichemakin/GNL)
+ https://github.com/alekseichemakin/GNL
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/get_next_line)](https://github.com/alekseichemakin/GNL) -->
   
   ## Libft - own library with most popular functions
-  [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/Libft)](https://github.com/alekseichemakin/Libft)
+ https://github.com/alekseichemakin/Libft
+<!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/Libft)](https://github.com/alekseichemakin/Libft) -->
   
   ## CPP - learning C++
   https://github.com/alekseichemakin/CPP
