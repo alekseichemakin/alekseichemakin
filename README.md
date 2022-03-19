@@ -2,6 +2,8 @@
 ### Welcome to my github account! 
 ### I'm student of Programming School 21 (L'École 42)
 
+## [My CV](https://github.com/alekseichemakin/CV/blob/main/CV%20Alexey%20Chemakin.pdf)
+
 <!--
 **marselaminov/marselaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
