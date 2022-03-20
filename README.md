@@ -44,43 +44,43 @@ ____<details open><summary><font size = 100> Projects : </font></summary>____
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/minishell)](https://github.com/alekseichemakin/WebServer) -->
   
   ## Minishell - simple version of shell
- https://github.com/alekseichemakin/Minishell
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=Minishell)](https://github.com/alekseichemakin/Minishell)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/minishell)](https://github.com/alekseichemakin/Minishell) -->
   
   ## Philosophers - multithreading
- https://github.com/alekseichemakin/Philosophers
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=Philosophers)](https://github.com/alekseichemakin/Philosophers)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/Philosophers)](https://github.com/alekseichemakin/Philosophers) -->
   
   ## Services - clusturing an docker-compose application whose deploy it with Kubernetes
- https://github.com/alekseichemakin/Services
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=Services)](https://github.com/alekseichemakin/Services)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_services)](https://github.com/alekseichemakin/Services) -->
   
   ## Server - Installation docker to create server with Nginx, Mysql and Wordpress
- https://github.com/alekseichemakin/Server
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=Server)](https://github.com/alekseichemakin/Server)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_server)](https://github.com/alekseichemakin/Server) -->
   
   ## Cub3D - Wolfenstein 3D
- https://github.com/alekseichemakin/Cub3D
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=Cub3D)](https://github.com/alekseichemakin/Cub3D)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/cub3d)](https://github.com/alekseichemakin/Cub3D) -->
   
   ## Libasm - learning assembly
- https://github.com/alekseichemakin/Libasm
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=Libasm)](https://github.com/alekseichemakin/Libasm)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/libasm)](https://github.com/alekseichemakin/Libasm) -->
   
   ## Printf - implementation of my own "printf"
- https://github.com/alekseichemakin/Printf
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=Printf)](https://github.com/alekseichemakin/Printf)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/ft_printf)](https://github.com/alekseichemakin/Printf) -->
   
   ## GNL - implementation of my own "getline"
- https://github.com/alekseichemakin/GNL
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=GNL)](https://github.com/alekseichemakin/GNL)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/get_next_line)](https://github.com/alekseichemakin/GNL) -->
   
   ## Libft - own library with most popular functions
- https://github.com/alekseichemakin/Libft
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=Libft)](https://github.com/alekseichemakin/Libft)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/Libft)](https://github.com/alekseichemakin/Libft) -->
   
   ## CPP - learning C++
-  https://github.com/alekseichemakin/CPP
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=CPP)](https://github.com/alekseichemakin/CPP)
 
 </details>
   
