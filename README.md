@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mqueen?privacyEmail=true)](https://github.com/JaeSeoKim/badge42) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseichemakin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseichemakin&layout=compact&hide=javascript,html,CSS,Swift,Makefile,SCSS,Roff,Dockerfile,Shell,PHP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
  
@@ -30,16 +30,17 @@ ____<details open><summary><font size = 100> Projects : </font></summary>____
   # Projects :
  
  ## Mimimetr - web application on spring
- https://github.com/alekseichemakin/mimimetr
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=mimimetr)](https://github.com/alekseichemakin/mimimetr)
  
  ## REST-API - getting car number
- https://github.com/alekseichemakin/number_generator
- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=number_generator)](https://github.com/alekseichemakin/number_generator)
+
  ## Web-application (Java, Spring)
-  https://github.com/alekseichemakin/sweater
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=sweater)]( https://github.com/alekseichemakin/sweater)
  
   ## WebServer - HTTP webserver
- https://github.com/alekseichemakin/WebServer
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alekseichemakin&repo=WebServer)]( https://github.com/alekseichemakin/WebServer
+)
 <!--   [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mqueen/minishell)](https://github.com/alekseichemakin/WebServer) -->
   
   ## Minishell - simple version of shell
